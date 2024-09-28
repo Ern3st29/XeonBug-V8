@@ -2,22 +2,21 @@
 //re-upload? recode? copy code? give credit ya :)
 //YouTube: @GlobalTechInfo
 //Telegram: https://t.me/GlobalTechInc
-//GitHub: @GlobalTechInfo
-//WhatsApp: https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07
+//whatsapp channel:https://whatsapp.com/channel/0029VakMfZR4yltPyixMaK0D
 //want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@GlobalTechInfo
 
 const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "923444844060"
-global.ownername = "Qasim Ali"
+global.ownernomer = "2349065526692"
+global.ownername = "Ernest"
 global.ytname = "YT: GlobalTechInfo"
 global.socialm = "GitHub: GlobalTechInfo"
 global.location = "Pakistan, Karachi, Karachi"
 
-global.ownernumber = '923444844060'  //creator number
-global.ownername = 'Qasim Ali' //owner name
+global.ownernumber = '2349065526692'  //creator number
+global.ownername = 'Ernest' //owner name
 global.botname = 'XeonBug-V8' //name of the bot
 
 //sticker details
@@ -29,10 +28,10 @@ global.themeemoji = '🪀'
 global.wm = "Global Bot"
 
 //theme link
-global.link = 'https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07'
+global.link = 'https://whatsapp.com/channel/0029VakMfZR4yltPyixMaK0D'
 
 //custom prefix
-global.prefa = ['','!','.','#','&']
+global.prefa = [''-'!'-'-'-'-','-']
 
 //false=disable and true=enable
 global.autoRecording = false //auto recording
@@ -59,13 +58,13 @@ global.bimg = '//9j/4AAQSkZJRgABAQAAAQABAAD/4gIoSUNDX1BST0ZJTEUAAQEAAAIYAAAAAAQw
 //reply messages
 global.mess = {
     done: 'Done !',
-    prem: 'This feature can be used by premium user only',
-    admin: 'This feature can be used by admin only',
-    botAdmin: 'This feature can only be used when the bot is a group admin ',
-    owner: 'This feature can be used by owner only',
+    prem: 'You need to be a premium user😊',
+    admin: 'Bro you are not an admin😂',
+    botAdmin: 'Bro I am not an admin😂',
+    owner: 'Bro you are not my owner😅',
     group: 'This feature is only for groups',
     private: 'This feature is only for private chats',
-    wait: 'In process... ',    
+    wait: 'Calm down😴....',    
     error: 'Error!',
 }
 
