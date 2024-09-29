@@ -9,19 +9,19 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "2349065526692"
-global.ownername = "Ernest"
+global.ownernomer = "+2349157858058"
+global.ownername = "SAYSORRY GAMING"
 global.ytname = "YT: GlobalTechInfo"
 global.socialm = "GitHub: GlobalTechInfo"
 global.location = "Pakistan, Karachi, Karachi"
 
-global.ownernumber = '2349065526692'  //creator number
-global.ownername = 'Ernest' //owner name
+global.ownernumber = '2349157858058' //creator number
+global.ownername = 'SAYSORRY GAMING' //owner name
 global.botname = 'XeonBug-V8' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
-global.author = 'GlobalTech\n\nContact: +923444844060'
+global.author = 'GlobalTech\n\nContact: +2349157858058'
 
 //console view/theme
 global.themeemoji = '🪀'
@@ -36,7 +36,7 @@ global.prefa = [''-'!'-'-'-'-','-']
 //false=disable and true=enable
 global.autoRecording = false //auto recording
 global.autoTyping = false //auto typing
-global.autorecordtype = false //auto typing + recording
+global.autorecordtype = true //auto typing + recording
 global.autoread = false //auto read messages
 global.autobio = false //auto update bio
 global.anti91 = false //auto block +91 
