@@ -9,19 +9,19 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "+2349157858058"
-global.ownername = "SAYSORRY GAMING"
+global.ownernomer = "+2349065526692"
+global.ownername = "Ernest"
 global.ytname = "YT: GlobalTechInfo"
 global.socialm = "GitHub: GlobalTechInfo"
-global.location = "Pakistan, Karachi, Karachi"
+global.location = "Nigeria,Lagos"
 
-global.ownernumber = '2349157858058' //creator number
-global.ownername = 'SAYSORRY GAMING' //owner name
-global.botname = 'XeonBug-V8' //name of the bot
+global.ownernumber = '2349065526692' //creator number
+global.ownername = 'Ernest' //owner name
+global.botname = 'ErnestBug-V8' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
-global.author = 'GlobalTech\n\nContact: +2349157858058'
+global.author = 'GlobalTech\n\nContact: +2349065526692'
 
 //console view/theme
 global.themeemoji = '🪀'
@@ -36,7 +36,7 @@ global.prefa = [''-'!'-'-'-'-','-']
 //false=disable and true=enable
 global.autoRecording = false //auto recording
 global.autoTyping = false //auto typing
-global.autorecordtype = true //auto typing + recording
+global.autorecordtype = false //auto typing + recording
 global.autoread = false //auto read messages
 global.autobio = false //auto update bio
 global.anti91 = false //auto block +91 
@@ -61,11 +61,11 @@ global.mess = {
     prem: 'You need to be a premium user😊',
     admin: 'Bro you are not an admin😂',
     botAdmin: 'Bro I am not an admin😂',
-    owner: 'Bro you are not my owner😅',
+    owner: 'Bro you are not Ernest😅',
     group: 'This feature is only for groups',
-    private: 'This feature is only for private chats',
+    private: 'This feature is only for private chats dummy',
     wait: 'Calm down😴....',    
-    error: 'Error!',
+    error: 'smthings wrong boy😐',
 }
 
 global.thumb = fs.readFileSync('./GlobalMedia/thumb.jpg')
